@@ -18,35 +18,7 @@ namespace PaddleOCRSharpDemo
         {
             InitializeComponent();
         }
-        /// <summary>
-        /// 打开本地图片
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
-        private void button1_Click(object sender, EventArgs e)
-        {
-           
-        }
-       
-        private void button2_Click(object sender, EventArgs e)
-        {
-           
-        }
-       
-        private void button3_Click(object sender, EventArgs e)
-        {
-          
-        }
-       
-        private void button4_Click(object sender, EventArgs e)
-        {
-           
-        }
-
-        private void button5_Click(object sender, EventArgs e)
-        {
-           
-        }
+     
         /// <summary>
         /// 打开本地图片
         /// </summary>
